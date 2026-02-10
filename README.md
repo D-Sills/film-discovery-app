@@ -1,9 +1,9 @@
 # Film Discovery Platform
 
 A full-stack web application for discovering and tracking movies, TV shows, and actors. Built with React, TypeScript, and Firebase, integrating The Movie Database (TMDB) API for comprehensive entertainment content.
-![ ](__src/images/homePage.png__)
-![ ](__src/images/moviesPage.png__)
-![ ](__src/images/movieDetailsPage.png__)
+![Home Page](src/images/homePage.png)
+![Movies Page](src/images/moviesPage.png)
+![Movie Details Page](src/images/movieDetailsPage.png)
 
 ## Features
 
